@@ -1,9 +1,9 @@
 # Ex-12-Automate-an-unattended-Robot-using-Orchestrator
 
-~~~
-Name : LALENTIKA TWISHA M
-Reg.No : 212224220052
-~~~
+
+Name : S Sesha Raghavan
+Reg.No : 212224040302
+
 
 ## Aim
 To automate and execute an unattended Robot in UiPath Orchestrator by publishing a project from UiPath Studio, creating necessary assets and triggers, and running the process remotely.
